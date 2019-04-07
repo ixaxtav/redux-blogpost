@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This is an application made for learning purposes. The main functionality of this app is to crete your own blogpost using react-redux- thunk
 ## Available Scripts
 
 In the project directory, you can run:
