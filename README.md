@@ -1,6 +1,6 @@
 # Blogpost
 
-This is an application made for learning purposes. The main functionality of this app is to crete your own blogpost using react-redux- thunk
+This is an application made for learning purposes. The main functionality of this app is to crete your own blogpost using react-redux- thunk using json placeholder.
 
 # Technologies
 
